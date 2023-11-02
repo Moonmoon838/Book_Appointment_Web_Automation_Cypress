@@ -1,0 +1,14 @@
+{
+  "message": "User created",
+  "user": {
+    "id": 35281,
+    "name": "Kellen",
+    "email": "Kellen4722@test.com",
+    "password": "P@ssword123",
+    "phone_number": "01525734291",
+    "nid": "8197517053",
+    "role": "Customer",
+    "updatedAt": "2023-10-23T15:20:02.887Z",
+    "createdAt": "2023-10-23T15:20:02.887Z"
+  }
+}
